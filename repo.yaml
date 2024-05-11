@@ -3,3 +3,9 @@ Name: Jueno
 Maintainer: Christopher J Trent
 MaintainerContact: HTTPS://github.com/ChristopherJTrent/Magian-Launcher/issues
 RepoVersion: 1
+Addons:
+  - !Addon
+    Name: Smart.LAC
+    Description: Event driver for Luashitacast
+    DownloadURL: https://github.com/ChristopherJTrent/Smart.LAC/archive/refs/heads/master.zip
+    InstallLocation: config/addons/luashitacast/Smart.LAC
